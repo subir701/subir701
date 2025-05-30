@@ -34,7 +34,7 @@
   <a href="https://gradle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/></a>
   <a href="https://maven.apache.org/" target="_blank"><img src="https://seeklogo.com/images/A/apache-maven-logo-99411001B3-seeklogo.com.png" alt="Maven" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="[https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg](https://skillicons.dev/icons?i=aws&perline=3))" alt="AWS" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&perline=3" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
