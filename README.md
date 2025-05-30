@@ -19,10 +19,9 @@
 <h3 align="left">💻 Programming & Backend</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Security" width="40" height="40"/></a>
-  <a href="https://hibernate.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" width="40" height="40"/></a>
-  <a href="https://junit.org/junit5/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/JUnit_5_Banner.png" alt="JUnit" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring&perline=3" alt="Spring Boot" width="40" height="40"/></a>
+  <a href="https://hibernate.org/" target="_blank"><img src="https://skillicons.dev/icons?i=hibernate&perline=3" alt="Hibernate" width="40" height="40"/></a>
+  <a href="https://junit.org/junit5/" target="_blank"><img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="JUnit" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">🛠️ Dev Tools & Technologies</h3>
