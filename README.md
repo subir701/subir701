@@ -18,7 +18,7 @@
 
 <h3 align="left">💻 Programming & Backend</h3>
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&perline=3" alt="Java" width="40" height="40"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring&perline=3" alt="Spring Boot" width="40" height="40"/></a>
   <a href="https://hibernate.org/" target="_blank"><img src="https://skillicons.dev/icons?i=hibernate&perline=3" alt="Hibernate" width="40" height="40"/></a>
   <a href="https://junit.org/junit5/" target="_blank"><img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="JUnit" width="40" height="40"/></a>
@@ -26,12 +26,12 @@
 
 <h3 align="left">🛠️ Dev Tools & Technologies</h3>
 <p align="left">
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Kafka" width="40" height="40"/></a>
-  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" alt="RabbitMQ" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://gradle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://seeklogo.com/images/A/apache-maven-logo-99411001B3-seeklogo.com.png" alt="Maven" width="40" height="40"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka&perline=3" alt="Kafka" width="40" height="40"/></a>
+  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq&perline=3" alt="RabbitMQ" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&perline=3" alt="Docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&perline=3" alt="Git" width="40" height="40"/></a>
+  <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle&perline=3" alt="Gradle" width="40" height="40"/></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven&perline=3" alt="Maven" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&perline=3" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
