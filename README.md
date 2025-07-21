@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subir701" alt="subir701" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://subir701.github.io/](https://subir701.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://subir701.github.io/](https://adaptable-colleagues-156756.framer.app/))
 
 - 📫 How to reach me **subiradhikari181@gmail.com**
 
